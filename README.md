@@ -1,5 +1,5 @@
-# Employee-Management-WebApp-SpringBoot-CRUD
- Implementing a RESTful CRUD API in Spring Boot Java and integrating with MySql Workbench
+# Employee-Management-WebApp-SpringBoot-CRUD 
+ Implementing a RESTful CRUD API in Spring Boot Java and integrating with MySql Workbench -Generation
  A Spring boot CRUD web application with dependencies- Spring Web ,Spring MVC ,Thymeleaf ,Spring Data JPA ,Hibernate and MySQL Driver
 - Spring Initializr https://start.spring.io/
 - Softwares Required : 
