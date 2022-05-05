@@ -1,5 +1,7 @@
-# EMPLOYEE MANAGEMENT SYSTEM
+## EMPLOYEE MANAGEMENT SYSTEM
+
 A Spring booot Java project created using Spring Boot, Spring Security, Thymeleaf, implementing a RESTful CRUD API and integrating with MySql Workbench.
+
 ---
 
 ## Table of contents
