@@ -12,7 +12,6 @@ A Spring booot Java project created using Spring Boot, Spring Security, Thymelea
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Features](#features)
-- [Documentation](#documentation)
 - [Contact](#contact)
 
 ---
@@ -74,6 +73,28 @@ Employee Management System is a CRUD application where you can view all the empl
 
 To run this project, install it locally 
  - `Run as Spring-boot`
+ 
+ ### Installation:
+
+1. Development Platform - Eclipse / IntelliJ Idea
+   * [Download Eclipse](https://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/mars2).
+   * [Download IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows).
+2. Server - Apache Tomcat Server
+
+   * [Download Apache Server](https://tomcat.apache.org/download-70.cgi).
+
+3. Build Tool - Maven
+
+   * [Download Maven](https://maven.apache.org/download.cgi).
+
+4. Database - MySQL workbench
+
+5. Configuring tomcat with Eclipse (windows) - [Click Here](https://javatutorial.net/run-tomcat-from-eclipse).
+
+6. Installation of maven in eclipse - [Click Here](https://stackoverflow.com/questions/8620127/maven-in-eclipse-step-by-step-installation).
+
+7. Clone the repository and import it to eclipse.
+
 
 ---
 
