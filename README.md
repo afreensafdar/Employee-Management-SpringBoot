@@ -37,7 +37,18 @@ Employee Management System is a CRUD application where you can view all the empl
 
 ## Demo
 
+<h1 align="center">
+  Employee Management System.
+</h1>
+
+<div align="center">
+
 ![Demo](./employee.gif)
+
+ An app made with the help of Spring boot Java.
+    
+</div>
+
 
 ---
 
