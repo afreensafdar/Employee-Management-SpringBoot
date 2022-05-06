@@ -42,17 +42,15 @@ Employee Management System is a CRUD application where you can view all the empl
 ---
 
 ## Screenshots
-![5.png](./employee-images/add-employee.png)
 
-![1.png](./employee-images/add-employee1.png)
+* Home Page:
 
-![2.png](./employee-images/add-new-employee.png)
+![1.png](./employee-images/add-new-employee.png)
+* Add Employee form Page:
+![2.png](./employee-images/add-employee1.png)
+* Update Page:
 
-![3.png](./employee-images/employee-mgmt.png)
-
-![4.png](./employee-images/update_employee.png)
-
-![5.png](./employee-images/updated.png)
+![1.png](./employee-images/update_employee.png)
 
 ---
 
